@@ -20,6 +20,10 @@ This is a simple to-do app built using React. It allows users to add, edit, and 
 1. Start the development server: `npm start`
 2. Open your browser and visit `http://localhost:3000` to view the app.
 
+## Live Link
+
+You can also access the live version of the app [here](https://react-to-do-app-ochre.vercel.app/).
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
@@ -27,4 +31,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
